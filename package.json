@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "name": "dockertest",
+  "version": "1.0.0",
+  "description": "send help",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Naiv0",
+  "license": "ISC"
+}
